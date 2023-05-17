@@ -1,2 +1,2 @@
 # SocialNetworkAnalysis--Algorithm
-Binary classification algorithm and synthetic images generator based on network theory
+Binary classification algorithm and synthetic images generator based on ER random network theory
